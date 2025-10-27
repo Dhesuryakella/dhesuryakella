@@ -26,39 +26,55 @@ I thrive in **collaborative, multidisciplinary environments** and enjoy turning 
 
 ---
 
-## 🚀 Projects & Major Works
+## 🚀 Project Showcase
 
-### Swarm Robotics System with ESP32 and TurtleBot  
+### Swarm Robotics System with ESP32 and TurtleBot
 **Tech:** ESP-NOW, ROS, ArUco Markers, Python  
-Designed a decentralized swarm robotics framework with ESP32-based follower robots communicating wirelessly with a ROS-enabled TurtleBot leader. Implemented **ArUco marker-based localization**, leader-follower control logic, and **collaborative payload transport**. Evaluated latency, formation spacing, and reliability in multi-agent environments.
+Decentralized swarm robotics system with **leader-follower coordination**, collaborative payload transport, and real-time **ArUco marker-based localization**.  
+![Swarm Robotics](https://raw.githubusercontent.com/DhesuryaKella/Swarm-Robotics-TurtleBot-ESP32/main/images/swarm_demo.gif)  
+[View Project](https://github.com/DhesuryaKella/Swarm-Robotics-TurtleBot-ESP32)
 
-### ESP32-CAM Surveillance Car with Raspberry Pi  
+### ESP32-CAM Surveillance Car with Raspberry Pi
 **Tech:** Embedded C, Python, OpenCV, Flask  
-Built a real-time surveillance robot integrating **ESP32-CAM** and Raspberry Pi. Developed a **Flask web app** for low-latency video streaming and remote control. Implemented **motion detection algorithms** using OpenCV.
+Real-time surveillance robot with **motion detection** and low-latency web streaming.  
+![Surveillance Car](https://raw.githubusercontent.com/DhesuryaKella/ESP32-CAM-Surveillance-Car/main/images/car_demo.gif)  
+[View Project](https://github.com/DhesuryaKella/ESP32-CAM-Surveillance-Car)
 
-### 4DOF Robotic Arm with Web-Based Control  
+### 4DOF Robotic Arm with Web-Based Control
 **Tech:** ESP32, Servo Motors, Python, OpenCV  
-Constructed a four-degree-of-freedom robotic arm driven by **SG90 servos** and ESP32, enabling Wi-Fi control. Integrated **inverse kinematics** and **ESP32-CAM visual feedback**, with a browser-based UI for real-time operation.
+Web-controlled robotic arm with **inverse kinematics** and **ESP32-CAM visual feedback**.  
+![4DOF Robotic Arm](https://raw.githubusercontent.com/DhesuryaKella/4DOF-Robotic-Arm/main/images/arm_demo.gif)  
+[View Project](https://github.com/DhesuryaKella/4DOF-Robotic-Arm)
 
-### Autonomous Robot with LiDAR-Based Navigation  
+### Autonomous Robot with LiDAR-Based Navigation
 **Tech:** ROS, RPLIDAR C1, Python  
-Programmed a fully autonomous robot using **ROS SLAM** and RPLIDAR. Implemented **path planning, obstacle avoidance**, and dynamic navigation in changing environments.
+Autonomous ground robot using **SLAM and path planning** for dynamic environments.  
+![LiDAR Robot](https://raw.githubusercontent.com/DhesuryaKella/Autonomous-Robot-LiDAR/main/images/lidar_demo.gif)  
+[View Project](https://github.com/DhesuryaKella/Autonomous-Robot-LiDAR)
 
-### Disaster Response System Using Swarm Robotics  
+### Disaster Response System Using Swarm Robotics
 **Tech:** ESP32, GPS, Python  
-Developed a master/slave system with drones and ground vehicles coordinated via **ESP-NOW + GPS**. Designed for **search & rescue**, with coordinated motion, area coverage, and obstacle-aware navigation.
+Master/slave architecture coordinating drones & ground vehicles for **search & rescue missions**.  
+![Disaster Response](https://raw.githubusercontent.com/DhesuryaKella/Disaster-Response-Swarm/main/images/demo.gif)  
+[View Project](https://github.com/DhesuryaKella/Disaster-Response-Swarm)
 
-### Offline Geo-fencing Alarm System  
+### Offline Geo-fencing Alarm System
 **Tech:** ESP32-C3, GPS, SH1106 OLED, Buzzer  
-Created a low-power, offline geofencing alarm using **ESP32-C3**, GPS, and OLED display. Triggered alarms when targets move out of predefined zones. Ideal for security and asset monitoring.
+Offline geofencing system triggering alarms when targets move out of predefined zones.  
+![Geo-fencing](https://raw.githubusercontent.com/DhesuryaKella/Geo-fencing-Alarm/main/images/demo.gif)  
+[View Project](https://github.com/DhesuryaKella/Geo-fencing-Alarm)
 
-### AI-Powered Heart Rate & SpO2 Monitoring System  
+### AI-Powered Heart Rate & SpO2 Monitoring System
 **Tech:** ESP32, MAX30102, Python, TensorFlow  
-Developed a **wearable health monitoring system** capturing live heart rate & SpO2. Implemented ML algorithms for **real-time analysis and anomaly detection**.
+Wearable health monitoring system with **real-time ML-based analysis and anomaly detection**.  
+![Heart Rate ML](https://raw.githubusercontent.com/DhesuryaKella/HeartRate-Monitoring/main/images/demo.gif)  
+[View Project](https://github.com/DhesuryaKella/HeartRate-Monitoring)
 
-### OCR for Remote Sensing Data (IIT PNT Internship)  
+### OCR for Remote Sensing Data
 **Tech:** Python, OpenCV, GUI  
-Extracted village names, landowner details, and survey numbers from cadastral map images. Provided outputs in **interactive GUI and CLI** formats for rapid geospatial analysis.
+Extracted **village names, landowner details, and survey numbers** from cadastral maps.  
+![OCR Remote Sensing](https://raw.githubusercontent.com/DhesuryaKella/OCR-Remote-Sensing/main/images/demo.gif)  
+[View Project](https://github.com/DhesuryaKella/OCR-Remote-Sensing)
 
 ---
 

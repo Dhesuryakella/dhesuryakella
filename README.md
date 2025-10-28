@@ -68,7 +68,7 @@ Offline geofencing system triggering alarms when targets move out of predefined 
 **Tech:** ESP32, MAX30102, Python, TensorFlow  
 Wearable health monitoring system with **real-time ML-based analysis and anomaly detection**.  
 ![Heart Rate ML](https://raw.githubusercontent.com/DhesuryaKella/HeartRate-Monitoring/main/images/demo.gif)  
-[View Project](https://github.com/DhesuryaKella/HeartRate-Monitoring)
+[View Project](https://github.com/Dhesuryakella/Heart-Disease-Prediction-System)
 
 ### OCR for Remote Sensing Data
 **Tech:** Python, OpenCV, GUI  

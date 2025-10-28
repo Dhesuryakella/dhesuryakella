@@ -74,7 +74,7 @@ Wearable health monitoring system with **real-time ML-based analysis and anomaly
 **Tech:** Python, OpenCV, GUI  
 Extracted **village names, landowner details, and survey numbers** from cadastral maps.  
 ![OCR Remote Sensing](https://raw.githubusercontent.com/DhesuryaKella/OCR-Remote-Sensing/main/images/demo.gif)  
-[View Project](https://github.com/DhesuryaKella/OCR-Remote-Sensing)
+[View Project](https://github.com/Dhesuryakella/Cadastral-Map-OCR-System)
 
 ---
 
